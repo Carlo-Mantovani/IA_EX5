@@ -1,0 +1,2 @@
+Acurácias Obtidas (Topologia: 2x10x10x10x10x10x10x10x10x10x10x6, Learning Rate: Constant - 0.0001 ): 75%. 66,6%. 50%. 16,66%
+A variabilidade de acurácia ocorre principalmente devido ao fato de o dataset possuir poucos dados, o que prejudica a acurácia do modelo.
